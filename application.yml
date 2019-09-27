@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: consumer-zjt
+    name: consumer-zjt--1
 
 eureka:
   client:
